@@ -13,4 +13,6 @@ The original tutorial is written for Django 1.7. Many things have changed since 
 
 The rest of the code works without adjustment.
 
-Cheers.
+Cheers,
+
+Wolf
